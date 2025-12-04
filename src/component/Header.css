@@ -1,0 +1,39 @@
+section{
+    
+    background: url(".././assets/vecteezy_ai-generated-beautuful-vegan-background-with-copy-space_37245047.png");
+    background-size: 100%;
+    height: 100%;
+    padding: 100px 0px;
+    text-align: center;
+    overflow: hidden;
+
+}
+section .row{
+    margin: 80px 0px;
+
+}
+section h2{
+    color: rgb(12, 202, 12);
+    font-size: 45px;
+    margin: 10px 0px;
+    text-align: center;
+    font-weight: bold;
+}
+section p{
+    color: black;
+    font-size: 20px;
+}
+section button{
+    background-color: rgb(12, 202, 12);
+    border: 2px;
+    margin-top: 10px;
+    padding: 5px 20px;
+
+    border-radius: 5px ;
+}
+section a{
+    text-decoration: none;
+    color: black;
+    
+    font-weight: 600;
+}
