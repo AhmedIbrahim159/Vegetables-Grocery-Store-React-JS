@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.101119f8.css",
+    "main.js": "/static/js/main.2a0423d3.js",
+    "static/js/453.fc054035.chunk.js": "/static/js/453.fc054035.chunk.js",
+    "static/media/vecteezy_ai-generated-beautuful-vegan-background-with-copy-space_37245047.png": "/static/media/vecteezy_ai-generated-beautuful-vegan-background-with-copy-space_37245047.e67a66360f96db7cfa31.png",
+    "static/media/pngwing.com (4).png": "/static/media/pngwing.com (4).cb18a8d6b4f41d16f74a.png",
+    "static/media/pngwing.com (6).png": "/static/media/pngwing.com (6).5a8ebf85cb8762c7c794.png",
+    "static/media/pngwing.com (7).png": "/static/media/pngwing.com (7).81ed40e7e883ad4cff23.png",
+    "static/media/pngwing.com (3).png": "/static/media/pngwing.com (3).a9d3c640ee867df56897.png",
+    "static/media/pngwing.com (5).png": "/static/media/pngwing.com (5).3b1d30916150d8b4fc4b.png",
+    "static/media/pngwing.com.png": "/static/media/pngwing.com.e283d675789231c21831.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.101119f8.css.map": "/static/css/main.101119f8.css.map",
+    "main.2a0423d3.js.map": "/static/js/main.2a0423d3.js.map",
+    "453.fc054035.chunk.js.map": "/static/js/453.fc054035.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.101119f8.css",
+    "static/js/main.2a0423d3.js"
+  ]
+}
